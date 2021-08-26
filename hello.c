@@ -13,6 +13,8 @@
 
      printf("Computer Science\n");
      printf("Hannah Shin!\n");
+     printf("Claire Anderson\n");
+     printf("Computer Science\n");
 
      return 0;
 
